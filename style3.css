@@ -1,0 +1,150 @@
+html{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ 
+}
+
+header {
+  
+    background-color: white;
+    padding: 0px 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+  }
+  
+  
+.logo img {
+  width: 200px;
+  height: 50px;
+  padding-left: 0%;
+  }
+  
+  nav ul {
+    position: relative;
+    width: 60%;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  
+  nav li {
+    list-style: none;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    font-weight: bolder;
+    color: #444;
+  }
+  
+.venta{
+  background-color: #FC5D01;
+  height: 30px;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: bold;
+  color: white;
+  text-align: center;
+  
+}
+
+.banner {
+  background-color: white;
+  padding: 100px 0;
+  text-align: center;
+}
+
+.banner h1 {
+  font-size: 40px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.banner p {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+
+.banner .easyWP .names {
+  color: green;
+font-size: 30px;
+font-weight: bolder;
+}
+
+.banner .easyWP a {
+  color: black; 
+font-size: 25px;
+font-weight: bolder;
+}
+
+.containers {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.feautres {
+  padding: 50px 0;
+}
+
+.feature {
+  text-align: center;
+  margin-bottom: 40px;
+  width: 500px;
+}
+
+.feature img {
+  max-width: 100%;
+  height: 50%;
+  margin-bottom: 20px;
+}
+
+.feature h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.feature p {
+  font-size: 16px;
+  color: #666;
+}
+
+h2{
+  text-align: center;
+}
+
+.names img{
+  width: 20px
+  ;
+}
+
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+
+}
+
+footer img {
+ width: 150px;
+
+}
+  
+.last img{
+  width: 100px;
+  
+}
+
+
+  
+  
+  
+  
